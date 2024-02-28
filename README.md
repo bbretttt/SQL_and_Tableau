@@ -2,4 +2,4 @@
 
 ## Welcome to this example project.
 
-Here is an analysis of a Brazilian ecommerce seller called Magist and whether it is a good strategic fit.
+A dummy analysis of a Brazilian ecommerce seller called Magist and whether it is a good strategic fit.
